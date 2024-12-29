@@ -36,5 +36,4 @@ questions = [
     }
 ]
 
-# Run the quiz
 run_quiz(questions)
